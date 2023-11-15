@@ -1,0 +1,112 @@
+.nav-item{
+    margin-left: 30px;
+}
+
+.navbar-brand{
+    margin-left: 20px;
+}
+
+.navbar{
+    background-color: #07060E;
+}
+
+.nav-link{
+    color: white;
+}
+
+.first_view_background{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.first_view{
+    background-color: #000002;
+}
+
+h1{
+    color: white;
+    font-family: sans-serif;
+    font-size: 55px;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    margin: 50px;
+    padding: 20px;
+}
+
+.agenda{
+    background-color: #07060E;
+    padding-top: 200px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.container{
+    padding: 0px;
+    max-width: 70%;
+}
+
+.card{
+    margin-top: 100px;
+}
+
+.container > h1{
+    display: inline;
+    text-align: left;
+    margin: 20px;
+    margin-top: 70px;
+}
+
+
+.container > a{
+    display: inline;
+    text-align: end;
+    margin: 20px;
+    color: white;
+    margin-left: 250px;
+    text-decoration: none;
+}
+
+.card-header{
+    font-size: 20px;
+    text-align: center;
+    min-height: 80px;
+}
+
+.card-title{
+    font-size: 26px;
+    min-height: 120px;
+}
+
+.experiments{
+    background-color: #07060E;
+    min-height: 900px;
+}
+
+#experiments-container{
+    margin-top: 25px;
+    border-radius: 25px;
+    border: 3px solid white;
+    padding: 100px 250px 100px 250px;
+    width: 70%;
+}
+
+.exp-btn{
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 25px;
+    height: 50px;
+    width: 200px;
+}
